@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "eurenka.client.instance-id",
+  "type": "java.lang.String",
+  "description": "A description for 'eurenka.client.instance-id'"
+}]}
